@@ -66,6 +66,12 @@ button.btn{
   margin-top: 1.5rem;
   font-weight: bold;
   }
+  .jumbotron h6{
+
+  margin-bottom: 2rem;
+
+  /* margin-bottom: 1em; */
+  }
   .jumbotron form {
   
    
